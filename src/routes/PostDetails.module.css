@@ -1,0 +1,35 @@
+.details {
+  padding: 1.25rem;
+  width: 30rem;
+  background-color: #33b4b9;
+  line-height: normal;
+}
+
+.name {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: #d5f5f7;
+  margin: 0;
+  text-transform: uppercase;
+  text-align: right;
+}
+
+.text {
+  white-space: pre-wrap;
+  font-size: 1.25rem;
+  margin: 0.25rem 0 0 0;
+  color: #d5f5f7;
+  font-style: italic;
+}
+
+.label {
+  font-size: 0.6rem;
+  font-weight: bold;
+  color: #d5f5f7;
+  text-transform: uppercase;
+}
+
+.details a {
+  text-decoration: none;
+}
+

@@ -8,7 +8,7 @@
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-  background-image: radial-gradient(ellipse at top left, #7f50e4, #4c05d0);
+  background-image: radial-gradient(ellipse at top left, #50dfe4, #05d0bc);
   font-synthesis: none;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
@@ -18,6 +18,5 @@
 
 body {
   margin: 0;
-  text-align: center;
-  color: #e6ddf9;
+  color: #ddf9f9;
 }
